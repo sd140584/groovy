@@ -2,5 +2,5 @@
 
 for (( c=0; c<20; c++ ))
 do
-	echo "Loop $c"
+	echo "Loop - $c"
 done
