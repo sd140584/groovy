@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for (( c=0; c<10; c++ ))
+for (( c=0; c<20; c++ ))
 do
 	echo "Loop - $c"
 done
